@@ -1,0 +1,23 @@
+{
+  "name": "app-orbit-poc",
+  "description": "app orbit poc",
+  "main": "index.js",
+  "authors": [
+    "ranjan kumar"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5",
+    "angular-native-dragdrop": "^1.2.2",
+    "dragular": "^4.2.5"
+  }
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>AngularPOC</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style/main.css">
+  <link href='libs/dragular/dist/dragular.css' rel='stylesheet' type='text/css' />
+  <!-- external bootstrap -->
+  <link rel="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+  <h1>App Orbit</h1>
+  <!--<test-component></test-component>
+  <other-component></other-component>-->
+
+  <div class="clearfix"></div>
+  <div ng-controller="dragDropCtrl">
+       <h3>Drag and drop a single image onto canvas</h3>
+       <drag-drop-canvas></drag-drop-canvas>
+       <h4>Image name</h4>
+       <span></span>
+       <h4>Image date</h4>
+       <span></span>
+       <h4>Image data</h4>
+       <textarea class="data"></textarea>
+   </div>
+
+   <drag-drop-canvas></drag-drop-canvas>
+
+
+<!-- libs -->
+<script src="libs/angular/angular.min.js"></script>
+
+<script src='libs/dragular/dist/dragular.js'></script>
+
+<!-- angular applciation -->
+<script src="app/app.js"></script>
+<script src="app/directives/drag-drop-canvas.js"></script>
+<script src="app/components/test/test.component.js"></script>
+<script src="app/components/other/other.component.js"></script>
+
+</body>
+</html>

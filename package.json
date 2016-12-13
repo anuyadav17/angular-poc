@@ -1,0 +1,14 @@
+{
+  "name": "app-orbit-poc",
+  "version": "1.0.0",
+  "description": "app orbit poc",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "ranjan kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "morgan": "^1.7.0"
+  }
+}

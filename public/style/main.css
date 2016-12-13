@@ -1,0 +1,38 @@
+.tool-container{
+  width: 200px;
+  border: 1px solid #ededed;
+  padding: 30px 20px;
+  float: left;
+  margin-right: 10px;
+}
+.tool-container .tool{
+  padding: 10px;
+  margin-bottom: 10px;
+  color: #000000;
+  background: #ededed;
+  cursor: move;
+  box-shadow: 0 0 5 #ededed;
+}
+.target-container{
+  background-color: #ededed;
+  padding: 20px;
+}
+.clickedClass {
+  background-color: orange !important;
+}
+.gu-transit{
+  background-color: #ff0000;
+  color: #ffffff;
+}
+.clearfix{
+  width: 100%;
+  clear: both;
+  display: block;
+}
+.clearfix::after{
+  width: 100%;
+  display: block;
+}
+canvas{
+  background-color: #ededed;
+}

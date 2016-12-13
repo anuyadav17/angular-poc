@@ -1,0 +1,9 @@
+/build/
+.DS_Store
+*~
+*.swp
+angular.js.tmproj
+/node_modules/
+/public/libs/
+*.log
+*.stackdump
