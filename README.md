@@ -7,3 +7,4 @@ steps
 3. at root of project run npm install
 4. bower install 
 5. npm start
+6. Go to browser and open http://localhost:3001 
