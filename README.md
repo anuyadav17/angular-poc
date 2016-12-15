@@ -1,10 +1,10 @@
-How to run Project?
+## How to run Project?
 
-steps
+#### Pre-requisite
+* nodejs >= 4.2.2
 
-1. Install nodejs
-2. npm install nodemon -g
-3. at root of project run npm install
-4. bower install 
-5. npm start
-6. Go to browser and open http://localhost:3001 
+#### steps
+
+* `npm install` 
+* `npm start`
+* Go to browser and open `http://localhost:3001` 
