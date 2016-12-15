@@ -4,8 +4,7 @@
   "description": "app orbit poc",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server",
-    "preinstall":"npm install nodemon && npm install bower && bower install"
+    "start": "nodemon server"
   },
   "author": "ranjan kumar",
   "license": "ISC",
@@ -13,6 +12,10 @@
     "morgan": "^1.7.0"
   },
   "dependencies": {
+    "@angular/router": "^0.2.0",
+    "angular": "^1.5.9",
+    "angular-component-router-active": "0.0.6",
+    "bootstrap": "^3.3.7",
     "express": "^4.14.0"
   }
 }
