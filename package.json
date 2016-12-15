@@ -4,7 +4,8 @@
   "description": "app orbit poc",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server"
+    "start": "nodemon server",
+    "preinstall": "npm install nodemon"
   },
   "author": "ranjan kumar",
   "license": "ISC",
