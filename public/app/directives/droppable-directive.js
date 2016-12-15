@@ -30,7 +30,7 @@
                 var sampleData = {
                   "id": this.id,
                   "elementType": attr.elementType
-                }
+                };
                 event.dataTransfer.setData('obj', JSON.stringify(sampleData));
                 event.dataTransfer.setData('Text', "ranjan");
                 event.dataTransfer.setData('Text', "kumar");

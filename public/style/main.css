@@ -19,8 +19,8 @@
   background-color: #cccccc;
 }
 .tier-type{
-  width: 150px;
-  height: 200px;
+  min-width: 150px;
+  min-height: 200px;
   border: 2px solid #cccccc;
   background-color: #ffffff;
   display: inline-block;

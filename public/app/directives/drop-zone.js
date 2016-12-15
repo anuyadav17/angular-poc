@@ -60,7 +60,7 @@
                 function setPosition(){
                     var parentPosition = getPosition(container);
                     var mousePositionX = event.clientX - parentPosition.x;
-                    console.log("mousePositionX: ",mousePositionX, " event.clientX: ", event.clientX, " parentPosition: ", parentPosition );
+                    //console.log("mousePositionX: ",mousePositionX, " event.clientX: ", event.clientX, " parentPosition: ", parentPosition );
                     var clonedElementWidth = draggableFactory.clonedElement[0].clientWidth;
                     var mousePositionY = event.clientY - parentPosition.y;
                     var clonedElementHeight = draggableFactory.clonedElement[0].clientHeight;
@@ -114,7 +114,12 @@
                         var html = $compile(draggableFactory.clonedElement)(scope);
                         scope.$evalAsync(function(){
                             //element.append(draggableFactory.clonedElement);
-                            element.append(creteItem(itemType));
+                            if(itemType === "tier"){
+                                element.append(creteItem(itemType));
+                            }
+                            else{
+                                element.children(".tier-type").append(creteItem(itemType));
+                            }
                         });
                     }
                 }
@@ -161,7 +166,6 @@
     }
 
     function creteItem(itemType){
-      console.log(itemType);
       switch (itemType) {
         case 'tier':
           return '<div class="tier-type" ></div>';
