@@ -3,6 +3,7 @@ var logger  = require('morgan');
 var path    = require('path');
 var app = express();
 
+app.use('/scripts', express.static(path.join(__dirname, 'node_modules')));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(logger('dev'));
 app.set('PORT', process.env.PORT || 3001);

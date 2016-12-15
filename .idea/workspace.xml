@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64447b0e-aa94-45d9-9224-974c3207a809" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/resources/demo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/resources/eyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.codeclimate.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-component-router-active/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/CODE_OF_CONDUCT.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/Gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/HEAD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-component-router-active/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-component-router-active/angular-component-router-active.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/angular-poc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/vendor/angular-touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/vendor/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/vendor/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/angular_1_router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/angular_poc_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/demo/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/vendor/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/changelog.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/partials/autogenerated/contribute.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/description" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/docsInstall/docsInstall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/draganddrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/draganddrop.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/dist/dragular.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/dist/dragular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/dist/dragular.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/dist/dragular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/dist/dragular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/src/dragularDirective.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/src/dragularModule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/src/dragularService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/src/dragularSource.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBasic/exampleBasic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBasic/exampleBasic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBasic/exampleBasic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBasicWithModel/exampleBasicWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBasicWithModel/exampleBasicWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBoundingBox/exampleBoundingBox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBoundingBox/exampleBoundingBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBoundingBoxLockX/exampleBoundingBoxLockX.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBoundingBoxLockX/exampleBoundingBoxLockX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBoundingBoxLockY/exampleBoundingBoxLockY.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleBoundingBoxLockY/exampleBoundingBoxLockY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleCopy/exampleCopy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleCopy/exampleCopy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleCopyWithModel/exampleCopyWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleCopyWithModel/exampleCopyWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleCustomClasses/exampleCustomClasses.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleCustomClasses/exampleCustomClasses.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDifferentOptionsWithModel/exampleDifferentOptionsWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDifferentOptionsWithModel/exampleDifferentOptionsWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDirective/exampleDirective.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDirective/exampleDirective.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDirectiveWithModel/exampleDirectiveWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDirectiveWithModel/exampleDirectiveWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDragOverEvents/exampleDragOverEvents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDragOverEvents/exampleDragOverEvents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleDragOverEvents/exampleDragOverEvents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleEvents/exampleEvents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleEvents/exampleEvents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleHandle/exampleHandle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleHandle/exampleHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleIsContainerWithModel/exampleIsContainerWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleIsContainerWithModel/exampleIsContainerWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNameSpaces/exampleNameSpaces.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNameSpaces/exampleNameSpaces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNestedNgRepeat/exampleNestedNgRepeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNestedNgRepeat/exampleNestedNgRepeat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNestedNgRepeatWithModel/exampleNestedNgRepeatWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNestedNgRepeatWithModel/exampleNestedNgRepeatWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNgRepeat/exampleNgRepeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNgRepeat/exampleNgRepeat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNgRepeatFilteredWithModel/exampleNgRepeatFilteredWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNgRepeatFilteredWithModel/exampleNgRepeatFilteredWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNgRepeatWithModel/exampleNgRepeatWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleNgRepeatWithModel/exampleNgRepeatWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleRemoveOnSpill/exampleRemoveOnSpill.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleRemoveOnSpill/exampleRemoveOnSpill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleRemoveOnSpillWithModel/exampleRemoveOnSpillWithModel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleRemoveOnSpillWithModel/exampleRemoveOnSpillWithModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleRevertOnSpill/exampleRevertOnSpill.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleRevertOnSpill/exampleRevertOnSpill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleScrollingDrag/exampleScrollingDrag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleScrollingDrag/exampleScrollingDrag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/exampleScrollingDrag/exampleScrollingDrag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/dist/examples.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/dist/examples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/docs/examples.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/dist/examples.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/dist/examples.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/dist/examples.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/examplesApp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/examplesApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/examplesRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/docs/getting-started.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/vendor/highlight.github.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/vendor/highlight.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-component-router-active/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/docs/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/mkdocs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-component-router-active/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/partials/partial-contribute.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/partials/partial-docs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/partials/partial-home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/angular-native-dragdrop/demo/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/.vscode/tasks.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/examples/templates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/libs/dragular/docs/src/vendor/ui-bootstrap-tpls-0.13.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+    </list>
+    <ignored path="angular-poc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="angular-poc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.185185">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5361552">
+              <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="@angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="@angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64447b0e-aa94-45d9-9224-974c3207a809" name="Default" comment="" />
+      <created>1481799286166</created>
+      <option name="number" value="Default" />
+      <updated>1481799286166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5996473">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25801012">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.185185">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5361552">
+          <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
