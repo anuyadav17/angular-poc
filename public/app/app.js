@@ -1,6 +1,6 @@
 (function(){
   'use strict';
-  angular.module('myApp', ['ngComponentRouter','dragularModule','wapweb.componentRouterActive'])
+  angular.module('myApp', ['ngComponentRouter','wapweb.componentRouterActive'])
       .config(function($locationProvider) {
           $locationProvider.html5Mode(true);
       })

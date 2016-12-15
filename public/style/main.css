@@ -8,43 +8,39 @@
   margin-top: 30px;
 }
 
-.tool-container{
-  width: 200px;
-  border: 1px solid #ededed;
-  padding: 30px 20px;
-  float: left;
-  margin-right: 10px;
-}
-.tool-container .tool{
-  padding: 10px;
-  margin-bottom: 10px;
-  color: #000000;
-  background: #ededed;
-  cursor: move;
-  box-shadow: 0 0 5 #ededed;
-}
-.target-container{
+.box-dashed{
   background-color: #ededed;
-  padding: 20px;
+  border: 2px dashed #cccccc;
 }
-.clickedClass {
-  background-color: orange !important;
+.box-dashed.over{
+  border:3px dashed #ff0000;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+  transition: 0.75s all;
+  background-color: #cccccc;
 }
-.gu-transit{
+.tier-type{
+  width: 150px;
+  height: 200px;
+  border: 2px solid #cccccc;
+  background-color: #ffffff;
+  display: inline-block;
+}
+.container-type{
+  width: 120px;
+  height: 80px;
+  border-radius: 10px;
+  border: 2px solid #cccccc;
   background-color: #ff0000;
-  color: #ffffff;
+  display: inline-block;
 }
-.clearfix{
-  width: 100%;
-  clear: both;
-  display: block;
-}
-.clearfix::after{
-  width: 100%;
-  display: block;
-}
-canvas{
-  background-color: #ededed;
+
+.volume-type{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #cccccc;
+  background-color: #00ff00;
+  display: inline-block;
 }
 
 /* Navigation css */
