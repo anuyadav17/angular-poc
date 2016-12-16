@@ -168,7 +168,7 @@
     function creteItem(itemType){
       switch (itemType) {
         case 'tier':
-          return '<div class="tier-type" ></div>';
+          return '<div class="tier-type"></div>';
 
         case 'container':
           return '<div class="container-type"></div>';

@@ -8,7 +8,37 @@
 
     <!-- Tab panes -->
     <div class="tab-content">
-        <div role="tabpanel" class="tab-pane active" id="info">Information</div>
+        <div role="tabpanel" class="tab-pane active" id="info">
+            <div ng-if="flag === 'tier'" >
+                Tier Details<br>
+                <label>Name :</label><br>
+                <input type="text" ng-model="data.name"> <br>
+                <label>Type :</label><br>
+                <input type="text" ng-model="data.type"> <br>
+                <label>Replicas :</label><br>
+                <input type="number" ng-model="data.replica"> <br>
+            </div>
+
+            <div ng-if="flag === 'container'" >
+                Image Details<br>
+                <label>Name :</label><br>
+                <input type="text" ng-model="data.name"> <br>
+                <label>Image :</label><br>
+                <input type="text" ng-model="data.image"> <br>
+            </div>
+
+            <div ng-if="flag === 'volume'" >
+                Volume<br>
+                <label>Container volume</label><br>
+                <input type="text" ng-model="data.vol"> <br>
+                <input type="checkbox"><label>Read only</label><br>
+                <label>Min. Size:</label><br>
+                <input type="text" ng-model="data.minSize"> <br>
+                <label>Max. Size:</label><br>
+                <input type="text" ng-model="data.maxSize">
+            </div>
+
+        </div>
         <div role="tabpanel" class="tab-pane" id="yaml">YAML</div>
     </div>
 

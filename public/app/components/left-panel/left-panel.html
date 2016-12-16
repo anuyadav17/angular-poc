@@ -1,14 +1,15 @@
 <div class="left-panel">
     <div class="row">
-        <div class="col-md-12 col-lg-12 panel" droppable element-type="tier">
-            Add Tier
+        <div class="col-md-12 col-lg-12 panel" droppable element-type="tier" ng-click="lpc.clicked($event, lpc.data.tierInfo, 'tier')">
+            Add Tier <br>
+            {{lpc.tierInfo.name}}
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6 col-lg-6 panel" droppable element-type="container">
+        <div class="col-md-6 col-lg-6 panel" droppable element-type="container" ng-click="lpc.clicked($event, lpc.data.container, 'container')">
             Container
         </div>
-        <div class="col-md-6 col-lg-6 panel" droppable element-type="volume">
+        <div class="col-md-6 col-lg-6 panel" droppable element-type="volume" ng-click="lpc.clicked($event, lpc.data.volume, 'volume')">
             Volume
         </div>
     </div>
