@@ -746,7 +746,8 @@ ul.nav.nav-tabs a {
   padding-left: 20px;
 }
 
-.animate-show {
+
+/*.animate-show {
   -moz-transition: all linear 1s;
   -o-transition: all linear 1s;
   transition: all linear 1s;
@@ -763,7 +764,7 @@ ul.nav.nav-tabs a {
 
 .animate-show.ng-hide {
   opacity: 0;
-}
+}*/
 
 .tier {
   transition: 1s linear all;
@@ -897,6 +898,20 @@ tier .template-animation.on-drag-hover .volume-icon-drop-area {
   -webkit-animation: slideInRight 1.5s linear;
 }
 
+.animate-width {
+  animation: slideWidth 1.5s linear;
+  -webkit-animation: slideWidth 1.5s linear;
+}
+
+@-webkit-keyframes slideWidth {
+  from {
+    width: 80%
+  }
+  to {
+    width: 65%;
+  }
+}
+
 
 /*.volume-info-wrapper {
   animation: slideInDown 1s linear;
@@ -990,22 +1005,16 @@ vm:nth-child(even) .template-animation.on-drag-hover::after {
   }
 }
 
-@-webkit-keyframes slideInRight {
+@keyframes slideInRight {
   from {
-    -webkit-transform: translate3d(100%, 0, 0);
-    transform: translate3d(100%, 0, 0);
-    opacity: 0;
-  }
-  50% {
-    opacity: 0;
-  }
-  90% {
-    opacity: 1;
+    -webkit-transform: translate3d(200px, 0, 0);
+    transform: translate3d(200px, 0, 0);
+    //opacity: 0;
   }
   to {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    opacity: 1;
+    // opacity: 1;
   }
 }
 
